@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Files/SEIP Android Course/QuizGame/QuizGame/app/src/main/res/drawable/bg.xml" value="0.1475" />
+        <entry key="..\:/Files/SEIP Android Course/QuizGame/QuizGame/app/src/main/res/drawable/buttondesign.xml" value="0.1475" />
         <entry key="..\:/Files/SEIP Android Course/QuizGame/QuizGame/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
-        <entry key="..\:/Files/SEIP Android Course/QuizGame/QuizGame/app/src/main/res/layout/fragment_question.xml" value="0.11594202898550725" />
+        <entry key="..\:/Files/SEIP Android Course/QuizGame/QuizGame/app/src/main/res/layout/fragment_question.xml" value="0.19166666666666668" />
       </map>
     </option>
   </component>

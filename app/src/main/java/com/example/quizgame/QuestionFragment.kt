@@ -93,7 +93,7 @@ val questionList = listOf(
     QuestionSet("Which of the following kernel is used in Android?", listOf("MAC","Windows","Linux","Redhat"),"Linux"),
     QuestionSet("Does android support other languages than java?", listOf("Yes","No","Can't say","Maybe"),"Yes"),
     QuestionSet("Which of the following is contained in the src folder?", listOf("XML","Java source code","Manifest","None of the above"),"Java source code"),
-    QuestionSet("Which of the following method is used to handle what happens after clicking a button?", listOf("onClick","onCreate","onSelect","None of the above"),"OS"),
+    QuestionSet("Which of the following method is used to handle what happens after clicking a button?", listOf("onClick","onCreate","onSelect","None of the above"),"onClick"),
     QuestionSet("Which of the following android component displays the part of an activity on screen?", listOf("View","Manifest","Intent","Fragment"),"Fragment"),
     QuestionSet("Which of the following is the parent class of Activity?", listOf("context","object","contextThemeWrapper","None of the above"),"contextThemeWrapper"),
     QuestionSet("In which of the following tab an error is shown?", listOf("CPU","Memory","ADB Logs","Logcat"),"Logcat")
